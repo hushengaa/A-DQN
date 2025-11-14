@@ -1,1 +1,1 @@
-# The prompt complexity dataset and annotation guidelines used in A-DQN study
+# The prompt complexity dataset, annotation guideline, and prompt complexity model used in A-DQN study
